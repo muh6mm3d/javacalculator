@@ -1,0 +1,1 @@
+"JCalculator" is a Java Swing application. Beside the standard mathematical operations, it provides a mode to calculate value tables, even with exponents like "3
